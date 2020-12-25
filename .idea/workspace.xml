@@ -4,25 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7cbf97-99f6-4919-91de-d51f79bd8ae1" name="Default Changelist" comment="" />
+    <list default="true" id="4b7cbf97-99f6-4919-91de-d51f79bd8ae1" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/data/CSS3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/HTML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/JavaScript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MongoDB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/NodeJs1231231" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs/readdir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/boolean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/conditional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/function2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syntax/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/syntax/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syntax/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/syntax/template.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m3nPR6p5NoG1GKiAfwGsGFcGbs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="conditional.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/syntax/conditional.js" working-dir="$PROJECT_DIR$/syntax">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/syntax/number.js" working-dir="$PROJECT_DIR$/syntax">
+      <method v="2" />
+    </configuration>
+    <configuration name="readdir.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/nodejs/readdir.js" working-dir="$PROJECT_DIR$/nodejs">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/syntax/template.js" working-dir="$PROJECT_DIR$/syntax">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.readdir.js" />
+        <item itemvalue="Node.js.conditional.js" />
+        <item itemvalue="Node.js.template.js" />
+        <item itemvalue="Node.js.number.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +94,37 @@
       <option name="presentableId" value="Default" />
       <updated>1608731118280</updated>
       <workItem from="1608731119433" duration="767000" />
+      <workItem from="1608731910977" duration="4339000" />
+      <workItem from="1608869209896" duration="11684000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1608732215877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608732215877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
